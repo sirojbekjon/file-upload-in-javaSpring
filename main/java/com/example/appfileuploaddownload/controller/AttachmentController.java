@@ -28,7 +28,7 @@ public class AttachmentController {
 
     @Autowired
     AttachmentRepository attachmentRepository;
-
+//github tomonidan o'zgartirildi
     @Autowired
     AttachmentContentRepository attachmentContentRepository;
 
